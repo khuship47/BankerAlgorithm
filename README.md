@@ -6,8 +6,8 @@
 * Date: 21th april 2022
 
 ## What to do?
-* To see if the system is safe or not
-* You need to read data from a file
+* To see if the system is safe or not, if it is then print out the order
+* You need to read data from a file 
 
 ## Solution
 * There are three 2-D arrays from reading file 
